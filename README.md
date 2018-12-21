@@ -9,9 +9,7 @@
 
 Bot simples para dar introdução ao projeto... (Ate agora sem um nome definido)
 
-## 🤔 Para que servir o bot D2?
-
-Ate o presente momento não vai servir para nada, ele vai ficar online no servidor do [Kally](https://discordapp.com/invite/mxXHyN7).
+Ate o presente momento não vai servir para nada, ele vai ficar online somente no servidor do [Kally](https://discordapp.com/invite/mxXHyN7).
 
 ## 💁 Suporte
 soon...
