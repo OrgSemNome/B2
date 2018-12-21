@@ -7,7 +7,7 @@
 
 <p align="center">
 
-Bot simples para dar introdução ao projeto ... (Ate agora sem um nome definido)
+Bot simples para dar introdução ao projeto... (Ate agora sem um nome definido)
 
 ## 🤔 Para que servir o bot D2?
 
